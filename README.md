@@ -1,1 +1,1 @@
--- I'm a full stack coder and I'm coding for 5 months, I started with python, now I'm learning HTML/CSS. I'm going to learn C++, Assembly and JavaScript when summer break comes :)
+-- I'm a both back end frontend coder and I'm coding for 5 months, I started with python, now I'm learning HTML/CSS. I'm going to learn C++, Assembly and JavaScript when summer break comes :)
